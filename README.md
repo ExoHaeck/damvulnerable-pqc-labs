@@ -46,4 +46,4 @@ Cada laboratorio incluye su propio README con instrucciones específicas, comand
 ## 📜 Créditos
 
 Desarrollado por [**HackSyndicate**](https://www.hacksyndicate.xyz)  
-Coordinado por [**Mauro Carrillo (Pr00f)**](www.linkedin.com/in/mauro-carrillo-7a326a208)
+Coordinado por [**Mauro Carrillo (Pr00f)**](https://www.linkedin.com/in/mauro-carrillo-7a326a208)
