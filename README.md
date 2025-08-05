@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="ChatGPT Image 5 ago 2025, 03_27_22 p m" src="https://github.com/user-attachments/assets/9a6dda14-a76c-4dbc-b4b3-6dabffa53b23" />
+<img width="1536" height="1024" alt="ChatGPT Image 5 ago 2025, 03_37_03 p m" src="https://github.com/user-attachments/assets/a8525416-38f8-43c6-9bdb-850db81e845d" />
 
 **DAMvulnerable** es una colección de laboratorios prácticos diseñados para explorar vulnerabilidades reales en esquemas criptográficos post-cuánticos. Su objetivo es ofrecer un entorno controlado para que investigadores, estudiantes y entusiastas de la seguridad puedan aprender, practicar y comprender fallos que pueden presentarse en implementaciones del mundo real.
 
