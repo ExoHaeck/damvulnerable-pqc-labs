@@ -1,0 +1,24 @@
+# Hashing Trapdoor – SPHINCS+ (CTF)
+
+## Descripción
+Este reto simula una implementación vulnerable de SPHINCS+ en la que la función hash
+utilizada para firmar mensajes tiene una puerta trasera (trapdoor) y es extremadamente débil,
+produciendo hashes muy cortos que facilitan colisiones.
+
+## Objetivo
+Encontrar un mensaje diferente al original que produzca el mismo hash que la firma legítima.
+Esto permitirá reutilizar la firma para un mensaje malicioso.
+
+## Archivos
+- vulnerable_sphincs.py → Implementación vulnerable.
+- generate_signature.py → Genera un par de claves y una firma legítima.
+- attacker.py → Script para que el participante complete.
+
+## Pasos
+1. Ejecutar `python3 generate_signature.py` para obtener clave pública, firma y mensaje legítimo.
+2. Usar `attacker.py` para encontrar otro mensaje que genere el mismo hash.
+3. Mostrar el mensaje malicioso y el hash coincidente.
+
+## Validación
+La solución es correcta si el mensaje malicioso encontrado produce el mismo hash que el original
+al concatenarlo con la clave pública, y puede ser aceptado por la verificación vulnerable.
